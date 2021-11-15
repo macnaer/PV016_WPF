@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="Calculator" MinHeight="525" MinWidth="350">
+        Title="Calculator" MinHeight="525" MinWidth="350" Height="525" Width="350" >
     <Grid Margin="10">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
@@ -48,25 +48,94 @@
             Grid.Row="1" 
             Grid.Column="3"
             Background="{StaticResource operatorsColor}"
+            Click="operatorBtn_Click"
         />
         <Button x:Name="sevenBtn" Content="7" 
             Grid.Row="2"
             Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
         />
         <Button x:Name="eightBtn" Content="8" 
             Grid.Row="2"
             Grid.Column="1"     
             Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"        
         />
         <Button x:Name="nineBtn" Content="9" 
             Grid.Row="2"
             Grid.Column="2"     
             Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"        
         />
         <Button x:Name="multiplyBtn" Content="*"
             Grid.Row="2" 
             Grid.Column="3"
             Background="{StaticResource operatorsColor}"
+            Click="operatorBtn_Click"
+        />
+        <Button x:Name="fourBtn" Content="4" 
+            Grid.Row="3"
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"        
+        />
+        <Button x:Name="fiveBtn" Content="5" 
+            Grid.Row="3"
+            Grid.Column="1"     
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
+        />
+        <Button x:Name="sixBtn" Content="6" 
+            Grid.Row="3"
+            Grid.Column="2"     
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"        
+        />
+        <Button x:Name="plusBtn" Content="+"
+            Grid.Row="3" 
+            Grid.Column="3"
+            Background="{StaticResource operatorsColor}"
+            Click="operatorBtn_Click"
+        />
+        <Button x:Name="oneBtn" Content="1" 
+            Grid.Row="4"
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
+        />
+        <Button x:Name="twoBtn" Content="2" 
+            Grid.Row="4"
+            Grid.Column="1"     
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
+        />
+        <Button x:Name="threeBtn" Content="3" 
+            Grid.Row="4"
+            Grid.Column="2"     
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
+        />
+        <Button x:Name="minusBtn" Content="-"
+            Grid.Row="4" 
+            Grid.Column="3"
+            Background="{StaticResource operatorsColor}"
+            Click="operatorBtn_Click"
+        />
+        <Button x:Name="zeroBtn" Content="0"
+            Grid.Row="5"
+            Grid.ColumnSpan="2"    
+            Background="{StaticResource numbersColor}"
+            Click="numbersBtn_Click"    
+        />
+        <Button x:Name="pointBtn" Content="." 
+            Grid.Row="5"
+            Grid.Column="2"     
+            Background="{StaticResource numbersColor}"
+            Click="pointBtn_Click"    
+        />
+        <Button x:Name="equalBtn" Content="=" 
+            Grid.Row="5"
+            Grid.Column="3"     
+            Background="{StaticResource operatorsColor}"
+            Click="equalBtn_Click"   
         />
     </Grid>
 </Window>
