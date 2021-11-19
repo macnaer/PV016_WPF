@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\macnaer\Desktop\ПВ016\ContactList\ContactList\obj\Debug\net5.0-windows\
+C:\Users\master\Desktop\ПВ016\ContactList\ContactList\obj\Debug\net5.0-windows\
 ContactList
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\macnaer\Desktop\ПВ016\ContactList\ContactList\App.xaml
-21628763337
+C:\Users\master\Desktop\ПВ016\ContactList\ContactList\App.xaml
+31439371734
 
-51535067457
-1981830429214
-CreateNewWindow.xaml;MainWindow.xaml;
+6-1492926523
+198-1202562139
+ContactDetailsWindow.xaml;CreateNewWindow.xaml;MainWindow.xaml;
 
 False
 

@@ -57,5 +57,17 @@ namespace ContactList
         {
 
         }
+
+        private void contactsListView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Contact selectedContact = contactsListView.SelectedItem as Contact;
+            if(selectedContact != null)
+            {
+                ContactDetailsWindow contactDetailsWindow = new ContactDetailsWindow(selectedContact);
+                contactDetailsWindow.ShowDialog();
+                GetContacts();
+            }
+
+        }
     }
 }

@@ -39,8 +39,6 @@ namespace ContactList
             {
                 connection.CreateTable<Contact>();
                 connection.Insert(contact);
-                //connection.Update(contact);
-                //connection.Delete(contact);
             }
 
             Close();

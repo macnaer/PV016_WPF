@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "wwihftCPwq2G6OOW4jcjAUqQbfxMP6HtC4bKzYRqddiHHjsQObuRHqqMdM79aL1mcS8ucigk5dTGwjXVhEYDfQ==",
+  "dgSpecHash": "osg5xdSmtGDJONmn3Mch0FZNr4xXUhpLyeSqWr5Rj+iVXXYqau2/JowOQ2XzzEZpG8GEvq1WgJEvBJVQfSDwvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\macnaer\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
+  "projectFilePath": "C:\\Users\\master\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\macnaer\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
-    "C:\\Users\\macnaer\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
-    "C:\\Users\\macnaer\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
-    "C:\\Users\\macnaer\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
-    "C:\\Users\\macnaer\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\macnaer\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\master\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

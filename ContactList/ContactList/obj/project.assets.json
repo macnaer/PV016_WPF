@@ -245,23 +245,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\macnaer\\.nuget\\packages\\": {},
+    "C:\\Users\\master\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macnaer\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
+      "projectUniqueName": "C:\\Users\\master\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
       "projectName": "ContactList",
-      "projectPath": "C:\\Users\\macnaer\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
-      "packagesPath": "C:\\Users\\macnaer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macnaer\\Desktop\\ПВ016\\ContactList\\ContactList\\obj\\",
+      "projectPath": "C:\\Users\\master\\Desktop\\ПВ016\\ContactList\\ContactList\\ContactList.csproj",
+      "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\master\\Desktop\\ПВ016\\ContactList\\ContactList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\macnaer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -310,7 +310,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
