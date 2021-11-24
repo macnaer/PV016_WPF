@@ -17,11 +17,17 @@ namespace TextEditor.Views
     /// <summary>
     /// Interaction logic for NotesWindow.xaml
     /// </summary>
+    ///
     public partial class NotesWindow : Window
     {
         public NotesWindow()
         {
             InitializeComponent();
+        }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
